@@ -1,5 +1,5 @@
 YAML · .github/workflows/test.yml
-name: Granja Animales Node.js CI #1
+name: "Granja Animales Node.js CI" #1
 on: #2
 push:
 branches:
