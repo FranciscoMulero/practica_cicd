@@ -1,4 +1,3 @@
-YAML · .github/workflows/docker.yml
 name: Publicar imagen Docker
 on:
 push:
